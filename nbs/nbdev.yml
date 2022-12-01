@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_talk"
+  site-url: "https://arunslb123.github.io/nbdev_talk"
+  description: "Deck of Cards project"
+  repo-branch: main
+  repo-url: "https://github.com/arunslb123/nbdev_talk"
